@@ -24,7 +24,8 @@ To get a copy of this app up and running on your local machine, follow these ins
 git clone https://github.com/your-username/task-manager-app.git
 cd task-manager-app
 
-CONTRIBUTING.
+CONTRIBUTING
+
 If you want to contribute to this project, feel free to fork the repository and submit pull requests. Here are a few ways you can contribute:
 
 Fix bugs or improve the app’s functionality.
