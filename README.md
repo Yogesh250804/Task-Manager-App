@@ -21,7 +21,10 @@ A simple, interactive **Task Manager App** built with **React** to help users tr
 To get a copy of this app up and running on your local machine, follow these instructions.
 
 #### **1. Clone the Repository**
-Contributing
+git clone https://github.com/your-username/task-manager-app.git
+cd task-manager-app
+
+CONTRIBUTING.
 If you want to contribute to this project, feel free to fork the repository and submit pull requests. Here are a few ways you can contribute:
 
 Fix bugs or improve the app’s functionality.
@@ -44,5 +47,3 @@ License: Specify the license for your project (e.g., MIT).
 Acknowledgements: Mention any libraries, tools, or resources you used that helped you build the app.
 
 ```bash
-git clone https://github.com/your-username/task-manager-app.git
-cd task-manager-app
